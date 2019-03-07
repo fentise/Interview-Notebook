@@ -4071,7 +4071,7 @@ public int maximumProduct(int[] nums) {
 
 链表是空节点，或者有一个值和一个指向下一个链表的指针，因此很多链表问题可以用递归来处理。
 
-**找出两个链表的交点** 
+**找出两个链表的交点**              Annotation:链表问题可以多关注一下路径长度的分析，结合快慢指针来思考
 
 [160. Intersection of Two Linked Lists (Easy)](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 
